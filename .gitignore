@@ -1,0 +1,19 @@
+# IDEs and editors
+.idea/
+.claude/
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+scripts/merge_phase1.js
+# 만약 개인적인 테스트용 데이터가 있다면 아래에 추가 가능
